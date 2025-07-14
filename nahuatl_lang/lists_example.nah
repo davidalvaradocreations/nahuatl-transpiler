@@ -1,0 +1,7 @@
+tlatequitl lista_demo():
+    numeros = lista([1, 2, 3, 4, 5])
+    ipan n in numeros:
+        tlahcuiloa("Numero: ", n)
+    moma queme
+
+lista_demo()

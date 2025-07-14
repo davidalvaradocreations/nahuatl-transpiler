@@ -1,0 +1,7 @@
+tlatequitl saludo():
+    tlahcuiloa("¿Nimitztlaçotla?")
+    nombre = tlatlaniz("Nimitz name: ")
+    tlahcuiloa("Nimitz ", nombre)
+    moma queme
+
+saludo()
